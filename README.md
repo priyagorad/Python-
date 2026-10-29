@@ -1,2 +1,2 @@
-# Python-
-Python basic to advance 
+# python
+python basic to advance
